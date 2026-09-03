@@ -1,0 +1,10 @@
+wav sample_place
+
+❯ tree
+.
+├── hihat.wav
+├── kick.wav
+├── snare.wav
+└── tom.wav
+
+1 directory, 4 files
